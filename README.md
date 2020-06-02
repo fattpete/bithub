@@ -1,3 +1,0 @@
-# bithub
-
-Hello world
